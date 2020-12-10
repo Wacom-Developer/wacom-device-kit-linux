@@ -15,4 +15,4 @@ If you updated Wacom X driver and you still don't get X Input events in the samp
 
 [Analyzing kernel events](https://github.com/linuxwacom/input-wacom/wiki/Analysing-kernel-events) - Evaluates the correct kernel events are reported
 
-Kernel Events FAQs - See the [How do I know if my device is supported or not](https://developer-docs.wacom.com/wacom-device-api/docs/kernel-events-faqs#how-do-i-know-device-supported) section.
+Kernel Events FAQs - See the [How do I know if my device is supported or not](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/kernel-events-faqs#how-do-i-know-device-supported) section.

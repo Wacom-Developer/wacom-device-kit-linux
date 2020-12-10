@@ -6,7 +6,7 @@ This sample code is a C application which should be compatible with any of of th
 To test the application, use a Wacom tablet supported by your installed driver.
 
 ## Install the Wacom tablet driver and verify tablet operation
-In order to run a sample application, it may be necessary to install a Wacom tablet driver. Users of Microsoft Windows and Apple macOS should obtain the driver from the Wacom driver support web page at: https://www.wacom.com/support/product-support/drivers. Users of Linux-based desktops should have a driver pre-installed; if your tablet does not work out of the box (see below) you may need to install or update a driver component as outlined at [Building the Driver Overview](https://developer-docs.wacom.com/wacom-device-api/docs/bldg-driver-overview).
+In order to run a sample application, it may be necessary to install a Wacom tablet driver. Users of Microsoft Windows and Apple macOS should obtain the driver from the Wacom driver support web page at: https://www.wacom.com/support/product-support/drivers. Users of Linux-based desktops should have a driver pre-installed; if your tablet does not work out of the box (see below) you may need to install or update a driver component as outlined at [Building the Driver Overview](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/bldg-driver-overview).
 
 Once the driver has installed, and you have rebooted your system, check your tablet driver installation by doing the following:
 
@@ -24,7 +24,7 @@ To build the sample application:
 1. Run ./demo to launch the application.
 
 ## See Also
-[GTK+ Overview](https://developer-docs.wacom.com/wacom-device-api/docs/gtk-overview) - Information about use of the GTK+ tablet APIs.
+[GTK+ Overview](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/gtk-overview) - Information about use of the GTK+ tablet APIs.
 
 ## Where to get help
 If you have questions about the sample application or any of the setup process, please visit our Support page at: https://developer.wacom.com/developer-dashboard/support

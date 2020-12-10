@@ -14,7 +14,7 @@ The application is composed of several C source files which handle independent p
 |```event_axes.c```	|Self-contained demonstration of responding to and extracting data from stylus, eraser, and pad events. Sensitive to pressure, tilt, rotation, tool type, etc. Capable of handling multi-touch events. Usable with mouse, tablet, touchscreen, and other input devices.|![Self-contained demonstration of responding to and extracting data from stylus, eraser, and pad events](./Media/sc-rm-gtk-eventaxesc.png)	|
 
 ## See Also
-[GTK+ Overview](https://developer-docs.wacom.com/wacom-device-api/docs/gtk-overview) - Introduction to the tablet-related APIs of GTK+3
+[GTK+ Overview](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/gtk-overview) - Introduction to the tablet-related APIs of GTK+3
 
 ## Where To Get Help
 If you have questions about this demo, please visit our support page: https://developer.wacom.com/developer-dashboard/support. 
