@@ -10,10 +10,10 @@ In order to run a sample application, it may be necessary to install a Wacom tab
 
 Once the driver has installed, and you have rebooted your system, check your tablet driver installation by doing the following:
 
-* Attach one of the supported Wacom tablets as listed above.
-* Windows and macOS users should open the Wacom Tablet Properties app or the Wacom Desktop Center to determine if your tablet is recognized by the driver.
-* Use a tablet pen to see if you can move the system cursor.
-* If all of the above checks out, proceed to the next step to build the sample application
+1. Attach one of the supported Wacom tablets as listed above.
+1. Windows and macOS users should open the Wacom Tablet Properties app or the Wacom Desktop Center to determine if your tablet is recognized by the driver.
+1. Use a tablet pen to see if you can move the system cursor.
+1. If all of the above checks out, proceed to the next step to build/run the sample application
 
 ## Build/run the sample application
 To build the sample application:
