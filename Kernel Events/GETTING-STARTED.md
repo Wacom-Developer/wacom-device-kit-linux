@@ -16,5 +16,5 @@ See the [analyzing kernel events](https://github.com/linuxwacom/input-wacom/wiki
 
 If you see issues with the kernel events or don't get any events at all, check if the [latest kernel driver](https://github.com/linuxwacom/input-wacom/wiki/Installing-input-wacom-from-source) is installed and the [proper device is registered](https://github.com/linuxwacom/input-wacom/wiki/Testing-Tablet-Detection).
 
-Kernel Events - FAQs: See the [How do I know if my device is supported or not](https://developer-docs.wacom.com/intuos-cintiq-business-tablets/docs/kernel-events-faqs#howdoiknowdevicesupported) section.
+Kernel Events - FAQs: See the [How do I know if my device is supported or not](https://developer-support.wacom.com/hc/en-us/articles/12845589645207-Kernel-Events) section.
 
