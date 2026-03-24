@@ -10,7 +10,7 @@ GTK_LIBS=$(shell pkg-config --libs gtk+-3.0)
 .PHONY: clean
 
 $(OUTPUT): $(SOURCES:.c=.o)
-	$(CC) $(LDFLAGS) $(GTK_LIBS) $^ -o $@
+	$(CC) $(LDFLAGS) $^ $(GTK_LIBS) -o $@
 
 %.o: %.c
 	$(CC) $(CFLAGS) $(GTK_CFLAGS) -c $< -o $@

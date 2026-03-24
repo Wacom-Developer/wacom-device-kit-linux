@@ -5,10 +5,10 @@ To compile:
 
 To run the sample
 	./multitouch
- */
 
 Author: Peter Hutterer <peter.hutterer@who-t.net> 2012
 Under MIT License (https://choosealicense.com/licenses/mit)
+*/
 
 #if HAVE_CONFIG_H
 #include <config.h>
